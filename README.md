@@ -8,7 +8,7 @@ School Management API
 - Principal: Can manage teachers and students.
 - Teacher: Can manage students.
 - Student: Can view their own details.
-- 
+  
 # Features
 - Role-based access control (RBAC)
 - CRUD operations for school roles
