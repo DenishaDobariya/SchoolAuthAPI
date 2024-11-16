@@ -1,7 +1,7 @@
 # Project Description
 School Management API
 
-- This project is a backend API for managing school data, built with Node.js, Express, and MongoDB. It includes role-based access control (RBAC) using JWT authentication.
+- This project is a backend API for managing school data, built with Node.js, Express, and MongoDB. It includes role-based access control (RBAC) using JWT authentication..
 
 # Roles and Permissions:
 - Master: Can add, update, and remove principals, teachers, and students.
